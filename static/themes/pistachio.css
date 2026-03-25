@@ -1,0 +1,127 @@
+.pistachio * {
+	color: #2d4a1e !important;
+	stroke: #5a8a3c !important;
+}
+
+.pistachio .app > * {
+	background-color: #f0f7eb !important;
+}
+
+.pistachio #nav {
+	background-color: #e4f0d8;
+}
+
+.pistachio .py-2\.5.my-auto.flex.flex-col.justify-between.h-screen {
+	background: #e4f0d8;
+}
+
+.pistachio .bg-white.dark\:bg-gray-800 {
+	background: #daecc8;
+}
+
+.pistachio .w-4.h-4 {
+	fill: #5a8a3c;
+}
+
+.pistachio #chat-input {
+	background: #c8e0b0;
+	margin: 0.3rem;
+	padding: 0.5rem;
+}
+
+.pistachio .bg-gradient-to-t.from-white.dark\:from-gray-800.from-40\%.pb-2 {
+	background: #daecc8 !important;
+	padding-top: 0.6rem;
+}
+
+.pistachio
+	.text-white.bg-gray-100.dark\:text-gray-800.dark\:bg-gray-600.disabled.transition.rounded-lg.p-1.mr-0\.5.w-7.h-7.self-center {
+	background-color: #93c572;
+	transition: background-color 0.2s ease-out linear;
+}
+
+.pistachio
+	.bg-black.text-white.hover\:bg-gray-900.dark\:bg-white.dark\:text-black.dark\:hover\:bg-gray-100.transition.rounded-lg.p-1.mr-0\.5.w-7.h-7.self-center {
+	background-color: #5a8a3c;
+	transition: background-color 0.2s ease-out linear;
+}
+
+.pistachio
+	.bg-black.text-white.hover\:bg-gray-900.dark\:bg-white.dark\:text-black.dark\:hover\:bg-gray-100.transition.rounded-lg.p-1.mr-0\.5.w-7.h-7.self-center
+	> * {
+	fill: #2d4a1e !important;
+	transition: fill 0.2s ease-out linear;
+}
+
+.pistachio
+	.w-full.flex.justify-between.rounded-md.px-3.py-2.hover\:bg-gray-900.bg-gray-900.transition.whitespace-nowrap.text-ellipsis {
+	background-color: #b8d4a0;
+	font-weight: bold;
+}
+
+.pistachio .hover\:bg-gray-900:hover {
+	--tw-bg-opacity: 1;
+	background-color: rgb(180 212 160 / var(--tw-bg-opacity));
+}
+
+.pistachio .text-xs.text-gray-700.uppercase.bg-gray-50.dark\:bg-gray-700.dark\:text-gray-400 {
+	background-color: #c8e0b0;
+}
+
+.pistachio .base.enter.svelte-ug60r4 {
+	background-color: #c8e0b0;
+}
+
+.pistachio .message.svelte-1nauejd {
+	color: #2d4a1e !important;
+}
+
+.pistachio #dropdownDots {
+	background-color: #c8e0b0;
+}
+
+.pistachio .flex.py-2\.5.px-3\.5.w-full.hover\:bg-gray-800.transition:hover {
+	background: #b8d4a0;
+}
+
+.pistachio .m-auto.rounded-xl.max-w-full.w-\[40rem\].mx-2.bg-gray-50.dark\:bg-gray-900.shadow-3xl {
+	background-color: #daecc8;
+}
+
+.pistachio
+	.w-full.rounded.p-4.text-sm.dark\:text-gray-300.dark\:bg-gray-800.outline-none.resize-none {
+	background-color: #c8e0b0;
+}
+
+.pistachio
+	.w-full.rounded.py-2.px-4.text-sm.dark\:text-gray-300.dark\:bg-gray-800.outline-none.svelte-1vx7r9s {
+	background-color: #c8e0b0;
+}
+
+.pistachio
+	.px-2\.5.py-2\.5.min-w-fit.rounded-lg.flex-1.md\:flex-none.flex.text-right.transition.bg-gray-200.dark\:bg-gray-700 {
+	background-color: #b8d4a0;
+}
+
+.pistachio
+	.px-2\.5.py-2\.5.min-w-fit.rounded-lg.flex-1.md\:flex-none.flex.text-right.transition.hover\:bg-gray-300.dark\:hover\:bg-gray-800:hover {
+	background-color: #a8c890;
+}
+
+.pistachio .px-4.py-2.bg-emerald-600.hover\:bg-emerald-700.text-gray-100.transition.rounded {
+	background-color: #5a8a3c;
+}
+
+.pistachio #chat-search > * {
+	background-color: #c8e0b0 !important;
+}
+
+.pistachio .svelte-1ee93ns {
+	--primary: #93c572 !important;
+	--secondary: #2d4a1e !important;
+}
+
+.pistachio .svelte-11kvm4p {
+	--primary: #5a8a3c !important;
+	--secondary: #f0f7eb !important;
+}

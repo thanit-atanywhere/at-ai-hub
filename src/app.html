@@ -58,6 +58,9 @@
 					document.documentElement.classList.add('dark');
 					document.documentElement.classList.add('her');
 					metaThemeColorTag.setAttribute('content', '#983724');
+				} else if (localStorage.theme === 'pistachio') {
+					document.documentElement.classList.add('pistachio');
+					metaThemeColorTag.setAttribute('content', '#93c572');
 				} else {
 					document.documentElement.classList.add('dark');
 					metaThemeColorTag.setAttribute('content', '#171717');
@@ -101,7 +104,7 @@
 			})();
 		</script>
 
-		<title>Open WebUI</title>
+		<title>AT AI HUB</title>
 
 		%sveltekit.head%
 	</head>
